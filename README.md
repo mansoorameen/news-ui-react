@@ -1,8 +1,5 @@
-# React + Vite
+A React app built with Vite, that takes news from multiple sources like NewYork Times and The Guardian.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Users can choose the source they wish to see news from
+-Search for news with keywords
+-Filter by category and date
